@@ -10,7 +10,11 @@ SANTOS, CORINNE V.
 
 ![No_2_Given](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159272619/d4c65079-c4d6-4cca-92e2-3c0651c4f289)
 
+
+Block Diagram
+
 ![No_2_Block Diagram](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159272619/3de31812-30d4-4e83-b825-8c845331c238)
+
 
 Step Response of Block Diagram
 
@@ -20,6 +24,7 @@ Step Response of Block Diagram
 Step Response of Reduced Block Diagram
 
 ![No_2_Step_Reduced Block](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159272619/f5d06702-4272-496d-8408-ddaa81b0d006)
+
 
 Sine Wave Response of Orginal Block Diagram
 
