@@ -9,6 +9,10 @@ AMURAO, MARIVEN E.
 SANTOS, CORINNE V.
 
 ![No_2_Given](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159272619/d4c65079-c4d6-4cca-92e2-3c0651c4f289)
+![No 2_Manual Computation_1](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159036308/ee120232-9fe9-4bf4-8133-af618abeeb0a)
+![No 2_Manual Computation_2](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159036308/1efaf178-ae71-4ef8-ba92-21eab5f9591b)
+![No 2_Manual Computation_3](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159036308/190e173e-7d90-4cf2-869f-d89d1a914e55)
+![No 2_Manual Computation_4](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159036308/b75a3e9e-41d2-45a7-a0d4-c81e0fffff36)
 
 
 Block Diagram
