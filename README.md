@@ -8,6 +8,27 @@ MACATANGAY, GENNYLYNE V.
 
 NOCHE, NOEMIE S.
 
+
+Block Diagram
+
+![No_1_Block Diagram](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159034322/100e1fee-1af9-4e2f-af39-0bf796378708)
+
+Step Response of Block Diagram
+
+![No_1_Step_Original Block](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159034322/fc20cb13-9366-4070-84c9-9358c6a9e3eb)
+
+Step Response of Reduced Block Diagram
+
+![No_1_Step_Reduced Block](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159034322/913aef53-5019-4edf-871a-9b63b771ead2)
+
+Sine Wave Response of Orginal Block Diagram
+
+![No_1_Sine Wave_Original Block](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159034322/075f517a-7da5-42f6-b318-8672e277b228)
+
+Sine Wave Response of Reduced Block Diagram
+
+![No_1_Sine Wave_Reduced Block](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159034322/6d5662bd-892a-42aa-8c03-c1969a0d8902)
+
 No. 2
 
 AMURAO, MARIVEN E.
