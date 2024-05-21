@@ -8,6 +8,11 @@ MACATANGAY, GENNYLYNE V.
 
 NOCHE, NOEMIE S.
 
+![No_1_Given](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159053773/019ae54d-7760-43c1-b7a1-878cf1f41b5f)
+![No_1_Manual Computation_1](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159053773/d42e7935-eee4-4cc8-ad11-934bb6b0a19d)
+![No_1_Manual Computation_2](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159053773/bb41b176-46a9-4c5a-9ecb-7dccf51fd633)
+![No_1_Manual Computation_3](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159053773/92a66fec-a011-407f-ade8-2aa6061da1fa)
+![No_1_Manual Computation_4](https://github.com/CorinneSantos/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group9_2024/assets/159053773/95f38459-d38b-4b58-b5d5-59b1fac06f74)
 
 Block Diagram
 
